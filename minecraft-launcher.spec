@@ -3,7 +3,7 @@
 
 Summary: Minecraft Launcher
 Name: minecraft-launcher
-Version: 2.1.15166
+Version: 2.1.15852
 Release: 1
 License: All rights reserved
 URL: https://mojang.com
