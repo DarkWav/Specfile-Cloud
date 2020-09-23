@@ -23,6 +23,8 @@ cp -R ../src/usr/lib ./usr/lib
 cp -R ../src/usr/lib ./usr/lib64
 cp -R ../src/opt ./opt
 cp -R ../src/etc ./etc
+cd ./usr/lib64
+ln -s /usr/lib64/libaom.so.2 libaom.so.0
 exit
 
 %files
