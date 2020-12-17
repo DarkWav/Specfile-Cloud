@@ -16,7 +16,7 @@ Video DownloadHelper Companion App
 cd %{buildroot}/../src
 wget https://github.com/mi-g/vdhcoapp/releases/download/v%{version}/%{name}-%{version}-%{release}_amd64.deb
 ar x ./%{name}-%{version}-%{release}_amd64.deb
-tar -xf data.tar.gz
+tar -xf data.tar.xz
 cd %{buildroot}
 mkdir -p ./usr
 cp -R ../src/usr/lib ./usr/lib
