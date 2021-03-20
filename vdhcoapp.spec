@@ -3,7 +3,7 @@
 
 Summary: Video DownloadHelper Companion App
 Name: net.downloadhelper.coapp
-Version: 1.6.0
+Version: 1.6.1
 URL: https://www.downloadhelper.net/install-coapp
 Release: 1
 Packager: DarkWav
